@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RestCon Mobile</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Welcome to RestCon Mobile!</string>
+    <string name="username">Username</string>
+    <string name="signup">Sign Up</string>
+    <string name="mail">Mail</string>
+    <string name="prenume">Prenume</string>
+    <string name="nume">Nume</string>
+    <string name="password">Password</string>
+    <string name="loginhere">Log In Here</string>
+    <string name="login">Log In</string>
+    <string name="signuphere">Sign Up Here</string>
+    <string name="codMasa">Cod masa</string>
+    <string name="title_activity_comanda_menu">MainActivity</string>
+    <string name="title_home">Comanda</string>
+    <string name="title_dashboard">Mancare</string>
+    <string name="title_notifications">Bautura</string>
+    <string name="text_com">Comanda este goala!</string>
+    <string name="cantitateProdus">Cantitate produs</string>
+
+</resources>
